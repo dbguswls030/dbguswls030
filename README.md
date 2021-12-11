@@ -4,8 +4,8 @@
 ### 👋 Hi there
 
 - 👨‍🎓 **I'm student**
-- 🇰🇷 **I live in South Korea**
-
+- 🇰🇷 **I'm living in South Korea**
+- 🌱 **I’m currently learning IOS**
 
 <div align="center">
   
