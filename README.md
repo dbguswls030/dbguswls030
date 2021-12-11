@@ -4,8 +4,8 @@
 <div align="center">
   
   ![dbguswls030's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbguswls030&show_icons=true&theme=radical)
-  
   <div>![dbguswls030's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbguswls030&show_icons=true&theme=radical)</div>
+  
   <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbguswls030&layout=compact)](https://github.com/dbguswls030/github-readme-stats)</div>
 
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
