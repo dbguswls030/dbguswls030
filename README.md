@@ -1,6 +1,11 @@
 <!--![header](https://capsule-render.vercel.app/api?type=rect)-->
 <!-- -->
 <div align=center><h1>👋 </h1></div>
+
+- 👨‍🎓 **I'm student**
+- 🇰🇷 **I live in South Korea**
+
+
 <div align="center">
   
   ![dbguswls030's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbguswls030&show_icons=true&theme=radical)
@@ -10,8 +15,7 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 </div>
 
-- 👨‍🎓 **I'm student**
-- 🇰🇷 **I live in South Korea**
+
 
 공부하는거
 이메일
