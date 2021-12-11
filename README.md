@@ -1,6 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=rect)-->
 <!-- -->
-<div align=center><h1>👋 </h1></div>
+
+### 👋 Hi there
 
 - 👨‍🎓 **I'm student**
 - 🇰🇷 **I live in South Korea**
