@@ -3,7 +3,7 @@
   
   
   ![dbguswls030's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbguswls030&show_icons=true&theme=radical) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/dbguswls030/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbguswls030&layout=compact)](https://github.com/dbguswls030/github-readme-stats)
 
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 </div>
