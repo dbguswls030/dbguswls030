@@ -2,11 +2,14 @@
 <!-- -->
 
 ### 👋 Hi there
-
+- 🙋‍♂️ **I'm HyeonJin Ryu**
 - 👨‍🎓 **I'm student**
 - 🇰🇷 **I'm living in South Korea**
 - 🌱 **I’m currently learning IOS**
 
+
+### ☎️ How to reach me
+#### Email : <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <div align="center">
   
   ![dbguswls030's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbguswls030&show_icons=true&theme=radical)
@@ -16,9 +19,6 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 </div>
 
-
-
-공부하는거
 이메일
 블로그
 
