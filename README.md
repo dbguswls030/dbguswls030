@@ -11,7 +11,6 @@
 ### ☎️ How to reach me
 - <a href="dbguswls030@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wisetrue.tistory.com/)](https://wisetrue.tistory.com/)
-- <img src="https://img.shields.io/badge/Tistory-EA4335?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <div align="center">
   
   ![dbguswls030's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbguswls030&show_icons=true&theme=radical)
