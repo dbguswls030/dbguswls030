@@ -10,7 +10,7 @@
 
 ### ☎️ How to reach me
 - <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<!-- - <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>-->
+- <img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=Tistory&logoColor=white"/></a>-->
 <div align="center">
   
   ![dbguswls030's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbguswls030&show_icons=true&theme=radical)
