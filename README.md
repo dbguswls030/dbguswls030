@@ -14,8 +14,7 @@
 <div align="center">
   
   ![dbguswls030's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbguswls030&show_icons=true&theme=radical)
-  
-  <script src="https://gist.github.com/dbguswls030/5e9cac3c3e53a217b030d4b78433b192.js"></script>
+ 
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbguswls030&layout=compact)](https://github.com/dbguswls030/github-readme-stats) -->
 
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
