@@ -3,8 +3,6 @@
 
 ### 👋 Hi there
 - 🙋‍♂️ **I'm HyeonJin Ryu**
-- 👨‍🎓 **I'm student**
-- 🇰🇷 **I'm living in South Korea**
 - 🌱 **I’m currently learning IOS**
 
 
