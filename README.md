@@ -1,11 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=rect)-->
 <!-- -->
 
-### 👋 Hi there
-- 🙋‍♂️ **I'm HyeonJin Ryu**
-- 🌱 **I’m currently learning IOS**
-
-
 ### ☎️ How to reach me
 - <a href=mailto:dbguswls030@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 - [![Tech Blog Badge](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://wisetrue.tistory.com/)](https://wisetrue.tistory.com/)
